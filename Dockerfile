@@ -20,10 +20,11 @@ RUN apt-get update -o Acquire::Check-Valid-Until=false \
 WORKDIR /usr/src/app
 
 COPY package*.json ./
-RUN npm install --production
+RUN npm install
 
 COPY . .
+RUN npm run build
 
 EXPOSE 8090
 ENTRYPOINT ["/sbin/tini", "--"]
-CMD ["node", "app.js"]
+CMD ["node", "main.js"]
