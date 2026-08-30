@@ -8,6 +8,8 @@ Minetrack makes it easy to keep an eye on your favorite Minecraft servers. Simpl
 ### This project is not actively supported!
 This project is not actively supported. Pull requests will be reviewed and merged (if accepted), but issues _might_ not be addressed outside of fixes provided by community members. Please share any improvements or fixes you've made so everyone can benefit from them.
 
+# [Polish Minetrack](https://tracker.pawciol.eu)
+
 ### Features
 - 🚀 Real time Minecraft server player count tracking with customizable update speed.
 - 📝 Historical player count logging with 24 hour peak and player count record tracking.
