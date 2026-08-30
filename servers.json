@@ -88,5 +88,6 @@
   { "name": "Nitromc.pl", "ip": "nitromc.pl", "type": "PC" },
   { "name": "wicmc.pl", "ip": "wicmc.pl", "type": "PC" },
   { "name": "voxmc.pl", "ip": "voxmc.pl", "type": "PC" },
+  { "name": "elcartel", "ip": "elcartel.gg", "type": "PC" },
   { "name": "hawajmc.pl", "ip": "hawajmc.pl", "type": "PC" }
 ]
