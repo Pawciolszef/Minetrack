@@ -1,93 +1,548 @@
 [
-  { "name": "Anarchia", "ip": "anarchia.gg", "type": "PC" },
-  { "name": "KokoCraft", "ip": "kokocraft.pl", "type": "PC" },
-  { "name": "craftmc.pl", "ip": "craftmc.pl", "type": "PC" },
-  { "name": "CraftKray", "ip": "craftkray.pl", "type": "PC" },
-  { "name": "CraftCube", "ip": "craftcube.pl", "type": "PC" },
-  { "name": "PylMC", "ip": "pylmc.pl", "type": "PC" },
-  { "name": "saafy.pl", "ip": "saafy.pl", "type": "PC" },
-  { "name": "ClearMC", "ip": "clearmc.pl", "type": "PC" },
-  { "name": "stmc.pl", "ip": "stmc.pl", "type": "PC" },
-  { "name": "bananacraft.pl", "ip": "bananacraft.pl", "type": "PC" },
-  { "name": "everest.pl", "ip": "everest.pl", "type": "PC" },
-  { "name": "tek.mc", "ip": "tek.mc", "type": "PC" },
-  { "name": "agbcraft.pl", "ip": "agbcraft.pl", "type": "PC" },
-  { "name": "AppleMC", "ip": "applemc.net", "type": "PC" },
-  { "name": "kfan.pl", "ip": "kfan.pl", "type": "PC" },
-  { "name": "feram.pl", "ip": "feram.pl", "type": "PC" },
-  { "name": "cubestar.pl", "ip": "cubestar.pl", "type": "PC" },
-  { "name": "unimx.pl", "ip": "unimx.pl", "type": "PC" },
-  { "name": "blocksky.pl", "ip": "blocksky.pl", "type": "PC" },
-  { "name": "TommyMC.net", "ip": "tommymc.net", "type": "PC" },
-  { "name": "astrahub.pl", "ip": "astrahub.pl", "type": "PC" },
-  { "name": "noremc.pl", "ip": "noremc.pl", "type": "PC" },
-  { "name": "driftmc.pl", "ip": "driftmc.pl", "type": "PC" },
-  { "name": "sharpmc.pl", "ip": "sharpmc.pl", "type": "PC" },
-  { "name": "duetplay.pl", "ip": "duetplay.pl", "type": "PC" },
-  { "name": "azedmc.pl", "ip": "azedmc.pl", "type": "PC" },
-  { "name": "JBWM", "ip": "jbwm.pl", "type": "PC" },
-  { "name": "huzarmc.pl", "ip": "huzarmc.pl", "type": "PC" },
-  { "name": "axelcraft.pl", "ip": "axelcraft.pl", "type": "PC" },
-  { "name": "mccenter.pl", "ip": "mccenter.pl", "type": "PC" },
-  { "name": "crafted.pl", "ip": "crafted.pl", "type": "PC" },
-  { "name": "mustpvp.pl", "ip": "mustpvp.pl", "type": "PC" },
-  { "name": "zzmc.pl", "ip": "zzmc.pl", "type": "PC" },
-  { "name": "kratmc.pl", "ip": "kratmc.pl", "type": "PC" },
-  { "name": "rabmc", "ip": "rabmc.pl", "type": "PC" },
-  { "name": "craftblock.pl", "ip": "craftblock.pl", "type": "PC" },
-  { "name": "playmc.pl", "ip": "playmc.pl", "type": "PC" },
-  { "name": "faymc.pl", "ip": "faymc.pl", "type": "PC" },
-  { "name": "AnMC", "ip": "anmc.pl", "type": "PC" },
-  { "name": "wildcraft.pl", "ip": "wildcraft.pl", "type": "PC" },
-  { "name": "flymc", "ip": "flymc.pl", "type": "PC" },
-  { "name": "peaksmp.pl", "ip": "peaksmp.pl", "type": "PC" },
-  { "name": "kierwka.pl", "ip": "kierwka.pl", "type": "PC" },
-  { "name": "naxi.pl", "ip": "naxi.pl", "type": "PC" },
-  { "name": "sigmamc.club", "ip": "sigmamc.club", "type": "PC" },
-  { "name": "kociolek-mc.pl", "ip": "kociolek-mc.pl", "type": "PC" },
-  { "name": "fujimc.pl", "ip": "fujimc.pl", "type": "PC" },
-  { "name": "loxmc.pl", "ip": "loxmc.pl", "type": "PC" },
-  { "name": "mikromc.pl", "ip": "mikromc.pl", "type": "PC" },
-  { "name": "hawajska-mc.pl", "ip": "hawajska-mc.pl", "type": "PC" },
-  { "name": "RealCraft.pl", "ip": "realcraft.pl", "type": "PC" },
-  { "name": "koxmc.pl", "ip": "koxmc.pl", "type": "PC" },
-  { "name": "fijimc.pl", "ip": "fijimc.pl", "type": "PC" },
-  { "name": "minesky.pl", "ip": "minesky.pl", "type": "PC" },
-  { "name": "krystalk", "ip": "krystalk.pl", "type": "PC" },
-  { "name": "batplay.pl", "ip": "batplay.pl", "type": "PC" },
-  { "name": "mojmc.pl", "ip": "mojmc.pl", "type": "PC" },
-  { "name": "raplexd.pl", "ip": "raplexd.pl", "type": "PC" },
-  { "name": "eskyblock.pl", "ip": "eskyblock.pl", "type": "PC" },
-  { "name": "be-esmc.pl", "ip": "be-esmc.pl", "type": "PC" },
-  { "name": "firebox-mc.pl", "ip": "firebox-mc.pl", "type": "PC" },
-  { "name": "panam.pl", "ip": "panam.pl", "type": "PC" },
-  { "name": "unitedcraft.pl", "ip": "unitedcraft.pl", "type": "PC" },
-  { "name": "Pixelcraft.pl", "ip": "pixelcraft.pl", "type": "PC" },
-  { "name": "lemage.pl", "ip": "lemage.pl", "type": "PC" },
-  { "name": "tudanc", "ip": "tudanc.pl", "type": "PC" },
-  { "name": "chomkmc.pl", "ip": "chomkmc.pl", "type": "PC" },
-  { "name": "skya.pl", "ip": "skya.pl", "type": "PC" },
-  { "name": "campfmc.pl", "ip": "campfmc.pl", "type": "PC" },
-  { "name": "craft-fever.pl", "ip": "craft-fever.pl", "type": "PC" },
-  { "name": "mlmc.pl", "ip": "mlmc.pl", "type": "PC" },
-  { "name": "ravemc.pl", "ip": "ravemc.pl", "type": "PC" },
-  { "name": "MCHub", "ip": "mchub.pl", "type": "PC" },
-  { "name": "gcz.pl", "ip": "gcz.pl", "type": "PC" },
-  { "name": "Amiwaycraft.pl", "ip": "amiwaycraft.pl", "type": "PC" },
-  { "name": "lamec.pl", "ip": "lamec.pl", "type": "PC" },
-  { "name": "cubercraft.pl", "ip": "cubercraft.pl", "type": "PC" },
-  { "name": "krainamc.pl", "ip": "krainamc.pl", "type": "PC" },
-  { "name": "morships.pl", "ip": "morships.pl", "type": "PC" },
-  { "name": "koxfire-mc.pl", "ip": "koxfire-mc.pl", "type": "PC" },
-  { "name": "MineStar", "ip": "minestar.pl", "type": "PC" },
-  { "name": "PolishAce", "ip": "polishace.pl", "type": "PC" },
-  { "name": "gamestorm.pl", "ip": "gamestorm.pl", "type": "PC" },
-  { "name": "Popszar.pl", "ip": "popszar.pl", "type": "PC" },
-  { "name": "pajcraft.pl", "ip": "pajcraft.pl", "type": "PC" },
-  { "name": "t2t.pl", "ip": "t2t.pl", "type": "PC" },
-  { "name": "Nitromc.pl", "ip": "nitromc.pl", "type": "PC" },
-  { "name": "wicmc.pl", "ip": "wicmc.pl", "type": "PC" },
-  { "name": "voxmc.pl", "ip": "voxmc.pl", "type": "PC" },
-  { "name": "elcartel", "ip": "elcartel.gg", "type": "PC" },
-  { "name": "hawajmc.pl", "ip": "hawajmc.pl", "type": "PC" }
+  {
+    "name": "KoksCraft",
+    "ip": "kokscraft.pl",
+    "type": "PC",
+    "color": "#eb9ec3"
+  },
+  {
+    "name": "MineStar",
+    "ip": "minestar.pl",
+    "type": "PC",
+    "color": "#f54425"
+  },
+  {
+    "name": "Rapy",
+    "ip": "rapy.gg",
+    "type": "PC",
+    "color": "#f33683"
+  },
+  {
+    "name": "BagMc.PL",
+    "ip": "bagmc.pl",
+    "type": "PC",
+    "color": "#c67531"
+  },
+  {
+    "name": "Anarchia",
+    "ip": "anarchia.gg",
+    "type": "PC",
+    "color": "#910f7d"
+  },
+  {
+    "name": "CraftCube",
+    "ip": "craftcube.pl",
+    "type": "PC",
+    "color": "#4a1433"
+  },
+  {
+    "name": "Inkmc",
+    "ip": "inkmc.pl",
+    "type": "PC",
+    "color": "#ef8982"
+  },
+  {
+    "name": "TabMC",
+    "ip": "tabmc.pl",
+    "type": "PC",
+    "color": "#1966a5"
+  },
+  {
+    "name": "ClearMC",
+    "ip": "clearmc.pl",
+    "type": "PC",
+    "color": "#e163cd"
+  },
+  {
+    "name": "RgMc",
+    "ip": "rgmc.pl",
+    "type": "PC",
+    "color": "#a04cbd"
+  },
+  {
+    "name": "AcMc",
+    "ip": "acmc.pl",
+    "type": "PC",
+    "color": "#3ae787"
+  },
+  {
+    "name": "CraftPlay",
+    "ip": "craftplay.pl",
+    "type": "PC",
+    "color": "#31bfa7"
+  },
+  {
+    "name": "PolishBox",
+    "ip": "PolishBox.PL",
+    "type": "PC",
+    "color": "#06eac7"
+  },
+  {
+    "name": "JBWM",
+    "ip": "jbwm.pl",
+    "type": "PC",
+    "color": "#182a8e"
+  },
+  {
+    "name": "McHub",
+    "ip": "mchub.pl",
+    "type": "PC",
+    "color": "#d2fafb"
+  },
+  {
+    "name": "AppleMc",
+    "ip": "applemc.pl",
+    "type": "PC",
+    "color": "#92305a"
+  },
+  {
+    "name": "krystalMc",
+    "ip": "krystalmc.pl",
+    "type": "PC",
+    "color": "#f43a9d"
+  },
+  {
+    "name": "EnderHc",
+    "ip": "EnderHc.pl",
+    "type": "PC",
+    "color": "#b3c78f"
+  },
+  {
+    "name": "SkyUp",
+    "ip": "skyup.pl",
+    "type": "PC",
+    "color": "#2bf3cc"
+  },
+  {
+    "name": "PykMc",
+    "ip": "pykmc.pl",
+    "type": "PC",
+    "color": "#ebfa26"
+  },
+  {
+    "name": "n1mc.pl",
+    "ip": "n1mc.pl",
+    "type": "PC",
+    "color": "#24a937"
+  },
+  {
+    "name": "wojanmc.pl",
+    "ip": "wojanmc.pl",
+    "type": "PC",
+    "color": "#79147e"
+  },
+  {
+    "name": "game-box.pl",
+    "ip": "game-box.pl",
+    "type": "PC",
+    "color": "#b24ecb"
+  },
+  {
+    "name": "axelcraft.pl",
+    "ip": "axelcraft.pl",
+    "type": "PC",
+    "color": "#18c47d"
+  },
+  {
+    "name": "fajnemc.pl",
+    "ip": "fajnemc.pl",
+    "type": "PC",
+    "color": "#d085ee"
+  },
+  {
+    "name": "mcvision.pl",
+    "ip": "mcvision.pl",
+    "type": "PC",
+    "color": "#3feac5"
+  },
+  {
+    "name": "ljaymc.pl",
+    "ip": "ljaymc.pl",
+    "type": "PC",
+    "color": "#ab94e2"
+  },
+  {
+    "name": "krainamc.pl",
+    "ip": "krainamc.pl",
+    "type": "PC",
+    "color": "#1cdff1"
+  },
+  {
+    "name": "poolcraft.pl",
+    "ip": "poolcraft.pl",
+    "type": "PC",
+    "color": "#3393cd"
+  },
+  {
+    "name": "loremc.pl",
+    "ip": "loremc.pl",
+    "type": "PC",
+    "color": "#de6995"
+  },
+  {
+    "name": "FommyMC.net",
+    "ip": "FommyMC.net",
+    "type": "PC",
+    "color": "#2b1d44"
+  },
+  {
+    "name": "minelay.pl",
+    "ip": "mineplay.pl",
+    "type": "PC",
+    "color": "#008d78"
+  },
+  {
+    "name": "RealCraft.pl",
+    "ip": "RealCraft.pl",
+    "type": "PC",
+    "color": "#4ed929"
+  },
+  {
+    "name": "campfire.pl",
+    "ip": "campfire.pl",
+    "type": "PC",
+    "color": "#1b6bae"
+  },
+  {
+    "name": "unimc.pl",
+    "ip": "unimc.pl",
+    "type": "PC",
+    "color": "#0a9e2d"
+  },
+  {
+    "name": "ultrahub.pl",
+    "ip": "ultrahub.pl",
+    "type": "PC",
+    "color": "#0533f4"
+  },
+  {
+    "name": "boostmc.pl",
+    "ip": "boostmc.pl",
+    "type": "PC",
+    "color": "#0fe545"
+  },
+  {
+    "name": "szefy.pl",
+    "ip": "szefy.pl",
+    "type": "PC",
+    "color": "#ba1fad"
+  },
+  {
+    "name": "sharpmc.pl",
+    "ip": "sharpmc.pl",
+    "type": "PC",
+    "color": "#e955e5"
+  },
+  {
+    "name": "ravemc.pl",
+    "ip": "ravemc.pl",
+    "type": "PC",
+    "color": "#6f7635"
+  },
+  {
+    "name": "KrabMC.pl",
+    "ip": "KrabMC.pl",
+    "type": "PC",
+    "color": "#b5d30f"
+  },
+  {
+    "name": "sigmamc.club",
+    "ip": "sigmamc.club",
+    "type": "PC",
+    "color": "#02c6f5"
+  },
+  {
+    "name": "heartmc.pl",
+    "ip": "heartmc.pl",
+    "type": "PC",
+    "color": "#76f2b2"
+  },
+  {
+    "name": "minerose.pl",
+    "ip": "minerose.pl",
+    "type": "PC",
+    "color": "#e23c7a"
+  },
+  {
+    "name": "dustplay.pl",
+    "ip": "dustplay.pl",
+    "type": "PC",
+    "color": "#22978d"
+  },
+  {
+    "name": "sandmc.pl",
+    "ip": "sandmc.pl",
+    "type": "PC",
+    "color": "#fef250"
+  },
+  {
+    "name": "crafted.pl",
+    "ip": "crafted.pl",
+    "type": "PC",
+    "color": "#b1bcc4"
+  },
+  {
+    "name": "playhc.pl",
+    "ip": "playhc.pl",
+    "type": "PC",
+    "color": "#009aab"
+  },
+  {
+    "name": "craftmc.pl",
+    "ip": "craftmc.pl",
+    "type": "PC",
+    "color": "#4f9952"
+  },
+  {
+    "name": "xskyblock.pl",
+    "ip": "xskyblock.pl",
+    "type": "PC",
+    "color": "#226816"
+  },
+  {
+    "name": "revex.pl",
+    "ip": "revex.pl",
+    "type": "PC",
+    "color": "#d9df05"
+  },
+  {
+    "name": "kociakmc.pl",
+    "ip": "kociakmc.pl",
+    "type": "PC",
+    "color": "#f9bf21"
+  },
+  {
+    "name": "nopixel.pl",
+    "ip": "nopixel.pl",
+    "type": "PC",
+    "color": "#c73258"
+  },
+  {
+    "name": "craftblock.pl",
+    "ip": "craftblock.pl",
+    "type": "PC",
+    "color": "#28a845"
+  },
+  {
+    "name": "mustpvp.pl",
+    "ip": "mustpvp.pl",
+    "type": "PC",
+    "color": "#6f7867"
+  },
+  {
+    "name": "chunkmc.pl",
+    "ip": "chunkmc.pl",
+    "type": "PC",
+    "color": "#d669f7"
+  },
+  {
+    "name": "pvpstar.pl",
+    "ip": "pvpstar.pl",
+    "type": "PC",
+    "color": "#45773f"
+  },
+  {
+    "name": "pejtcraft.pl",
+    "ip": "pejtcraft.pl",
+    "type": "PC",
+    "color": "#9edb7f"
+  },
+  {
+    "name": "nusi.pl",
+    "ip": "nusi.pl",
+    "type": "PC",
+    "color": "#faf7e1"
+  },
+  {
+    "name": "22mc.pl",
+    "ip": "22mc.pl",
+    "type": "PC",
+    "color": "#fe4d4b"
+  },
+  {
+    "name": "blockly.pl",
+    "ip": "BLOCKLY.PL",
+    "type": "PC",
+    "color": "#6ddfb8"
+  },
+  {
+    "name": "bfsmc.pl",
+    "ip": "bfsmc.pl",
+    "type": "PC",
+    "color": "#96d8ca"
+  },
+  {
+    "name": "unitedcraft.pl",
+    "ip": "unitedcraft.pl",
+    "type": "PC",
+    "color": "#19760f"
+  },
+  {
+    "name": "lanmc.pl",
+    "ip": "lanmc.pl",
+    "type": "PC",
+    "color": "#7d6236"
+  },
+  {
+    "name": "ironage.pl",
+    "ip": "ironage.pl",
+    "type": "PC",
+    "color": "#d42c09"
+  },
+  {
+    "name": "loofcraft.pl",
+    "ip": "loofcraft.pl",
+    "type": "PC",
+    "color": "#8b6db3"
+  },
+  {
+    "name": "gc2.pl",
+    "ip": "gc2.pl",
+    "type": "PC",
+    "color": "#6e2a41"
+  },
+  {
+    "name": "craftflower.pl",
+    "ip": "craftflower.pl",
+    "type": "PC",
+    "color": "#4fc5ac"
+  },
+  {
+    "name": "t2t.pl",
+    "ip": "t2t.pl",
+    "type": "PC",
+    "color": "#370fb0"
+  },
+  {
+    "name": "cubestorm.pl",
+    "ip": "cubestorm.pl",
+    "type": "PC",
+    "color": "#8e1e40"
+  },
+  {
+    "name": "nanomc.pl",
+    "ip": "nanomc.pl",
+    "type": "PC",
+    "color": "#2be4ef"
+  },
+  {
+    "name": "bremu.pl",
+    "ip": "bremu.pl",
+    "type": "PC",
+    "color": "#9a6f68"
+  },
+  {
+    "name": "nitromc.pl",
+    "ip": "nitromc.pl",
+    "type": "PC",
+    "color": "#815df1"
+  },
+  {
+    "name": "panmc.pl",
+    "ip": "panmc.pl",
+    "type": "PC",
+    "color": "#1ed536"
+  },
+  {
+    "name": "wizmc.pl",
+    "ip": "wizmc.pl",
+    "type": "PC",
+    "color": "#f89365"
+  },
+  {
+    "name": "wificraft.pl",
+    "ip": "wificraft.pl",
+    "type": "PC",
+    "color": "#32d92c"
+  },
+  {
+    "name": "mcextreme.pl",
+    "ip": "mcextreme.pl",
+    "type": "PC",
+    "color": "#5441dd"
+  },
+  {
+    "name": "klawka.pl",
+    "ip": "klawka.pl",
+    "type": "PC",
+    "color": "#458dee"
+  },
+  {
+    "name": "batplay.pl",
+    "ip": "batplay.pl",
+    "type": "PC",
+    "color": "#737ffb"
+  },
+  {
+    "name": "driftmc.pl",
+    "ip": "driftmc.pl",
+    "type": "PC",
+    "color": "#8b198e"
+  },
+  {
+    "name": "arrowcraft.pl",
+    "ip": "arrowcraft.pl",
+    "type": "PC",
+    "color": "#6d23db"
+  },
+  {
+    "name": "cubestar.pl",
+    "ip": "cubestar.pl",
+    "type": "PC",
+    "color": "#3848cb"
+  },
+  {
+    "name": "vexed.pl",
+    "ip": "vexed.pl",
+    "type": "PC",
+    "color": "#0063cf"
+  },
+  {
+    "name": "flashcube.pl",
+    "ip": "flashcube.pl",
+    "type": "PC",
+    "color": "#9d2a85"
+  },
+  {
+    "name": "kaucjahub.pl",
+    "ip": "kaucjahub.pl",
+    "type": "PC",
+    "color": "#d204e5"
+  },
+  {
+    "name": "mfmc.pl",
+    "ip": "mfmc.pl",
+    "type": "PC",
+    "color": "#c3d7aa"
+  },
+  {
+    "name": "toastmc.pl",
+    "ip": "toastmc.pl",
+    "type": "PC",
+    "color": "#f9ab68"
+  },
+  {
+    "name": "oghub.pl",
+    "ip": "oghub.pl",
+    "type": "PC",
+    "color": "#e69815"
+  },
+  {
+    "name": "hawaimc.pl",
+    "ip": "hawaimc.pl",
+    "type": "PC",
+    "color": "#967042"
+  },
+  {
+    "name": "peaksmp.pl",
+    "ip": "peaksmp.pl",
+    "type": "PC",
+    "color": "#1e284d"
+  },
+  {
+    "name": "banansmp.pl",
+    "ip": "banansmp.pl",
+    "type": "PC",
+    "color": "#781529"
+  }
 ]
